@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Monosnap%20Frontend%20Mentor%20_%20Huddle%20landing%20page%20wit.png)
 
 ### Links
 
