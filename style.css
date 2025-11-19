@@ -97,6 +97,10 @@ nav {
   background-color: var(--button-hover);
 }
 
+.social-icons a {
+  padding: 10px;
+}
+
 .fa {
   padding: 15px;
   font-size: 40px;
