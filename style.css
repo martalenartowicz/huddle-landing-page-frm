@@ -78,6 +78,10 @@ nav {
   max-width: 100px;
 }
 
+#huddle-logo {
+  max-width: 200px;
+}
+
 .social-icons {
   float: right;
   margin-top: 35%;
